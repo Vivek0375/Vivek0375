@@ -10,11 +10,12 @@
 - ⚡ **Fun fact:** I love turning real-world problems into working solutions!  
 
 ---
-
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vivek0375&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+-->
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
