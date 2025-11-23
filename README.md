@@ -6,7 +6,7 @@
 - 🔭 **I’m currently working on:** Building scalable Spring Boot applications & dashboards  
 - 🌱 **I’m currently learning:** Advanced Spring Boot, AWS Cloud Deployment, and API Documentation with Swagger  
 - 👯 **I’m looking to collaborate on:** Backend systems, analytics dashboards, and smart city solutions  
-- 💬 **Ask me about:** Java, Spring Boot, PHP, REST APIs, Authentication, Dashboards & Analytics  
+- 💬 **Ask me about:** Java, Spring Boot, REST APIs, Authentication, Dashboards & Analytics  
 - ⚡ **Fun fact:** I love turning real-world problems into working solutions!  
 
 ---
